@@ -1,0 +1,10 @@
+.User-List{
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.header {
+    text-align: center;
+}
